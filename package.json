@@ -6,9 +6,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sanity/client": "^3.3.6",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "@web3auth/web3auth": "^0.4.0",
+    "chart.js": "^3.9.1",
+    "gun": "^0.2020.1238",
+    "magic-sdk": "^9.0.0",
+    "moralis": "^2.3.1",
+    "netlify-cli": "^2.12.0",
     "next": "latest",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react": "^18.1.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "18.1.0",
+    "react-moralis": "^1.4.2",
+    "react-switch": "^7.0.0",
+    "web3uikit": "^1.0.4"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
